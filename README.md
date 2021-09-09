@@ -20,7 +20,7 @@ My top 5 [CliftonStrenghts](https://www.gallup.com/cliftonstrengths/en/253715/34
 
 # My Job
 As an Engineering Lead it is my job to:
-* Manage and build teams that own their independenty, have autonomy and enjoy what they do.
+* Manage and build teams that own their independently, have autonomy and enjoy what they do.
 * Recruit great talent.
 * Make sure teams are aligned with the business priorities.
 * Provide context and make sure teams understand why they are doing something.
